@@ -1,0 +1,1 @@
+print('''Hello, World!----"Hari" welcome you to IDC 30 days of Python Challenge...Let's Complete it!''')
